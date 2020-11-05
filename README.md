@@ -1,2 +1,2 @@
-# tik-tak-toe
-frist python project
+# SImple **tik-tak-toe*** using python
+

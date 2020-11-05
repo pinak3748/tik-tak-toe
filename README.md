@@ -1,2 +1,2 @@
-# SImple **tik-tak-toe*** using python
+# SImple **tik-tak-toe** using python
 
